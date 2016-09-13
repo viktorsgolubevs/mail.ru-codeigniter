@@ -1,4 +1,4 @@
-# MAil.ru PHP for CodeIgniter
+# Mail.ru PHP for CodeIgniter
 Library for integration Mail.ru PHP with CodeIgniter 3
 
 Version: 3.0.0
