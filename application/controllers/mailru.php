@@ -20,8 +20,6 @@ class Mailru extends CI_Controller {
     {
 		parent::__construct();
 
-        $this->data = array();
-
         // To use site_url and redirect on this controller.
         $this->load->helper('url');
         
